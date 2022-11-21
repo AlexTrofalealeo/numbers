@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DivisibleByFilterSpockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-21T16:09:57" hostname="LAPTOP-PHAM7UGQ" time="0.044">
+  <properties/>
+  <testcase name="testing DivisibleBy" classname="DivisibleByFilterSpockTest" time="0.044"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
